@@ -1,4 +1,14 @@
 [
-    {"nickname": "ShadowPulse", "password": "DarkNet123"},
-    {"nickname": "CyberWraith", "password": "GhostCode456"}
+    {
+        "nickname": "ShadowPulse",
+        "password": "DarkNet123",
+        "hwid": "123456789",
+        "subscription_end": "07.07.2025"
+    },
+    {
+        "nickname": "CyberWraith",
+        "password": "GhostCode456",
+        "hwid": null,
+        "subscription_end": null
+    }
 ]
