@@ -1,14 +1,14 @@
 [
-    {
-        "nickname": "ShadowPulse",
-        "password": "DarkNet123",
-        "hwid": "",
-        "subscription_end": "07.07.2025"
-    },
-    {
-        "nickname": "CyberWraith",
-        "password": "GhostCode456",
-        "hwid": null,
-        "subscription_end": null
-    }
+  {
+    "nickname": "ShadowPulse",
+    "password": "DarkNet123",
+    "hwid": "277807413135786",
+    "subscription_end": "07.07.2025"
+  },
+  {
+    "nickname": "CyberWraith",
+    "password": "GhostCode456",
+    "hwid": null,
+    "subscription_end": null
+  }
 ]
